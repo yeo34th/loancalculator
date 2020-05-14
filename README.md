@@ -1,3 +1,2 @@
 # loancalculator
-
-An experienced CPA but new in cybersecurity with strong desire to learn about programming.
+First project for the loancalculator web app with mutliple functionalities.
